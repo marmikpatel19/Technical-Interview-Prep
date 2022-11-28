@@ -8,7 +8,7 @@ For example, while 33 is divisible by 11 (which is greater than the square root 
 is 3 (3 * 11 = 33). 33 will have already been eliminated as a prime number by 3.
 
 Question: What is the time complexity of this function? */
-class Question {
+class Question10 {
     boolean isPrime(int n) {
         for (int x = 2; x * x <= n; x++) {
             if (n % x == 0) {

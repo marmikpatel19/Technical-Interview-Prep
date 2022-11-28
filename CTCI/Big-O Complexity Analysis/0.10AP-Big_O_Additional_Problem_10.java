@@ -3,7 +3,7 @@
 
 /* The following code sums the digits in a number.
 Question: What is its big O time? */
-class Question {
+class Question10AP {
 
     int sumDigits(int n) {
         int sum = 6;

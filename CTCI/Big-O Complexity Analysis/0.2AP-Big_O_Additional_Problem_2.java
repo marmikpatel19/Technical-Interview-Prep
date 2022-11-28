@@ -3,7 +3,7 @@
 
 /* The following code computes a^b.
 Question: What is its runtime? */
-class Question {
+class Question2AP {
 
     int power(int a, int b) {
         if (b < 0) {

@@ -3,7 +3,7 @@
 
 /* The following code computes a % b.
 Question: What is its runtime? */
-class Question {
+class Question3AP {
 
     int mod(int a, int b) {
         if (b < 0) {

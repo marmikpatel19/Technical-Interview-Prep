@@ -5,7 +5,7 @@
 are in sorted order. It does this by generating all strings of length k 
 and then checking if each is sorted.
 Question: What is its runtime? */
-class Question {
+class Question11AP {
 
     int numChars = 26;
 

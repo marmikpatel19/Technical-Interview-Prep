@@ -6,7 +6,7 @@ common) of two arrays. It assumes that neither array has duplicates. It
 computes the intersection by sorting one array (array b) and then iterating 
 through array a checking {via binary search) if each value is in b.
 Question: What is its runtime? */
-class Question {
+class Question12AP {
 
     int intersection(int[] a, int[] b) {
         mergesort(b);

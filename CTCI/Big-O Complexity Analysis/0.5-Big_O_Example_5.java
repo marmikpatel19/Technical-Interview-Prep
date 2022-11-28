@@ -2,7 +2,7 @@
  * Example 5 */
 
 /* Question: What is the runtime of the below code? */
-class Question {
+class Question5 {
     void printUnorderedPairs(int[] arrayA, int[] arrayB) {
         for (int i = 0; i < arrayA.length; i++) {
             for (int j = 0; j < arrayB.length; j++) {

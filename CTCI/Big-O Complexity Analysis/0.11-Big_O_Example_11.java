@@ -2,7 +2,7 @@
  * Example 11 */
 
 /* Question: What is its time complexity? */
-class Question {
+class Question11 {
     int factorial(int n) {
         if (n < 0) {
             return -1;

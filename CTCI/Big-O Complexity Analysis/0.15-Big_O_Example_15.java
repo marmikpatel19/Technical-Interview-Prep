@@ -5,7 +5,7 @@
 this time, it stores (i.e., caches) previously computed values in an 
 Integer array. If it has already been computed, It just returns the cache. 
 Question: What is its runtime? */
-class Question {
+class Question15 {
 
     void allFib(int n) {
         int[] memo = new int[n + 1];

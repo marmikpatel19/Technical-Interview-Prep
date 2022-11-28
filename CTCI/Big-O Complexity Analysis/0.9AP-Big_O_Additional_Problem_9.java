@@ -5,7 +5,7 @@
 returning this longer array. You've used the appendToNew method to create a copyArray
 function that repeatedly calls appendToNew.
 Question: How long does copying an array take? */
-class Question {
+class Question9AP {
 
     int[] copyArray(int[] array) {
         int[] copy = new int[0];

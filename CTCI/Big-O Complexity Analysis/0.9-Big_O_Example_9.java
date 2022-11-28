@@ -3,7 +3,7 @@
 
 /* Question: The following simple code sums the values of all the nodes in a balanced binary search tree. What is its
 runtime? */
-class Question {
+class Question9 {
 
     abstract class Node {
         Node left;

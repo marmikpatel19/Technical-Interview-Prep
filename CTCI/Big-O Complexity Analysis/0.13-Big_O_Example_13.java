@@ -3,7 +3,7 @@
 
 /* The following code computes the Nth Fibonacci number.
 Question: What is its time complexity? */
-class Question {
+class Question13 {
     int fib(int n) {
         if (n <= 0)
             return 0;

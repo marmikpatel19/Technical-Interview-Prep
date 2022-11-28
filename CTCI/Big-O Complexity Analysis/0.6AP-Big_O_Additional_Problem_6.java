@@ -5,7 +5,7 @@
 a perfect square (there is no integer square root), then it returns -1. It does this by trying
 increasingly large numbers until it finds the right value (or is too high).
 Question: What is its runtime? */
-class Question {
+class Question6AP {
 
     int sqrt(int n) {
         for (int guess = 1; guess * guess <= n; guess++) {

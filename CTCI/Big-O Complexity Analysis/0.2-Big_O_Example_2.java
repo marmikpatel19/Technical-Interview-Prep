@@ -2,7 +2,7 @@
  * Example 2 */
 
 /* Question: What is the runtime of the below code? */
-class Question {
+class Question2 {
     void printPairs(int[] array) {
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array.length; j++) {

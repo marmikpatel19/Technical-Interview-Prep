@@ -3,7 +3,7 @@
 
 /* The following code prints all Fibonacci numbers from 0 to n.
 Question: What is its time complexity? */
-class Question {
+class Question14 {
 
     void allFib(int n) {
         for (int i = 8; i < n; i++) {

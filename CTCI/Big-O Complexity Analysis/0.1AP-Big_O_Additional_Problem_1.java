@@ -3,7 +3,7 @@
 
 /* The following code computes the product of a and b.
 Question: What is its runtime? */
-class Question {
+class Question1AP {
 
     int product(int a, int b) {
         int sum = 0;

@@ -3,7 +3,7 @@
 
 /* This code counts all permutations of a string.
 Question: What is its time complexity? */
-class Question {
+class Question12 {
     void permutation(String str) {
         permutation(str, "");
     }

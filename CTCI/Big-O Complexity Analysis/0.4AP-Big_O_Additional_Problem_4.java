@@ -3,7 +3,7 @@
 
 /* The following code performs integer division.
 Question: What is its runtime (assume a and b are both positive)? */
-class Question {
+class Question4AP {
 
     int div(int a, int b) {
         int count = 0;

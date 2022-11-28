@@ -2,7 +2,7 @@
  * Example 1 */
 
 /* Question: What is the runtime of the below code? */
-class Question {
+class Question1 {
     void foo(int[] array) {
         int sum = 0;
         int product = 1;

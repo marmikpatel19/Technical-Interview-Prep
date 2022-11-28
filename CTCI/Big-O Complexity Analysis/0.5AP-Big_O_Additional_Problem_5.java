@@ -7,7 +7,7 @@ then it returns -1. It does this by successive guessing. If n is 100,
 it first guesses 50. Too high? Try something lower - halfway between 1
 and 50.
 Question: What is its runtime (assume a and b are both positive)? */
-class Question {
+class Question5AP {
 
     int sqrt(int n) {
         return sqrt_helper(n, 1, n);
