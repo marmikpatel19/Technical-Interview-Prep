@@ -14,7 +14,7 @@ is a rearrangement of letters. The palindrome does not need to be limited to jus
 
 input: Tact Coa
 output: True 
-    (permutations: "taco cat", "atco eta", etc. )
+    (permutations: "taco cat", "atco cta", etc. )
 
  */
 
