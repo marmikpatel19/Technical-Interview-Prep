@@ -1,4 +1,4 @@
-/* Question 1.6: One Away */
+/* Question 1.5: One Away */
 
 /*
  * Question: There are three types of edits that can be performed on strings: insert a character,
