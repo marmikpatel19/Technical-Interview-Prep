@@ -1,5 +1,3 @@
-package Leetcode;
-
 class LongestSubstringWithoutRepeatingCharacters {
     // time: O(n)?, space: O(1)
     public int lengthOfLongestSubstring(String s) {
