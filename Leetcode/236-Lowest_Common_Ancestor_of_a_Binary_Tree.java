@@ -27,7 +27,7 @@ class LowestCommonAncestorofaBinaryTree {
     P/Q.
      */
 
-    // time: O(n), space: O(1)
+    // time: O(n), space: O(n)
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         // base cases
         if(root == null){return null;}

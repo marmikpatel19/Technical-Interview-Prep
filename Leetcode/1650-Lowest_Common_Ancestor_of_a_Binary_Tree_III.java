@@ -2,14 +2,14 @@ class LowestCommonAncestorofaBinaryTreeIII {
     /**
     Brute force: use visited array. traverse both p and q to null
     when traverse q, once currNode is in visited, return currNode.
-    Time: O(n), spacek O(n)
+    Time: O(n), spacek O(n + n)
 
     Two-pass apporach: Determine the depths of the nodes. Iterate 
     p and q until they're at the same depth. Iterate them together
     until arriving at the same node.
-    time: O(n), space: O(1)
+    time: O(n), space: O(n) (no array but still recursive stack)
      */
-    // time: O(n), space: O(1)
+    // time: O(n), space: O(n)
     public Node lowestCommonAncestor(Node p, Node q) {
         int pDepth = 0;
         int qDepth = 0;
