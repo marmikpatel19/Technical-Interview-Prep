@@ -26,7 +26,7 @@ class KthLargestElementinanArray {
             - quickselect is for kth smallest, so we need to do n - k.
             - see technical notes doc for notes on implementation 
 
-            time: O(n) avg but O(n^2) worst, space: O(1)
+            time: O(n) avg but O(n^2) worst, space: O(1) avg but worst O(n) (recursive stack)
 
     tests
         - regular
