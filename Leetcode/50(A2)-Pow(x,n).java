@@ -44,7 +44,8 @@ class Pow(x,n)A2 {
                 res = 1, currentproduct = 4, n = 3
                 res = 4, currentproduct = 16, n = 1
                 res = 32, currentproduct = 256, n = 0
-
+                
+            T: O(logn), space: O(1)
     tests
         - all positibe
         - n negative
